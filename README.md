@@ -91,7 +91,7 @@ This project represents a comprehensive synthesis of adversarial defense researc
 CONTACT & COLLABORATION:
 Authors: Vaibhav Singh, Gaurav D (Manipal Institute of Technology Bengaluru)
 Institution: Manipal Academy of Higher Education, Manipal, India
-Email: vaibhav1.mitblr2022@learner.manipal.edu
+Email: vaibhavnsingh07@gmail.com
 
 LICENSING:
 Open-source framework available under MIT License for academic and commercial use.
